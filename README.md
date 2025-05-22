@@ -16,15 +16,6 @@ A simple web-based calculator built using **HTML**, **CSS**, and **JavaScript**,
   * Division
 * Lightweight and beginner-friendly
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/azzam-ilyas/calculator-by-javascriptalerts.git
-   ```
-2. Open the `index.html` file in any browser.
-3. Follow the prompt dialogs to perform calculations.
 
 ## 📁 Files Included
 
